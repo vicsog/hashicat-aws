@@ -3,5 +3,5 @@ module "s3-bucket" {
   version = "1.15.0"
   # insert required variables here
   #bucket = vicuat-bucket
-  bucket_prefix = vic-uat
+  bucket_prefix = "vic-uat"
 }
